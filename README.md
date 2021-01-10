@@ -1,5 +1,5 @@
 # gnome-control-center-3.36.4
-linux , gnome , control , center , cache , dump , meson , obs , screencast video recorder
+linux , gnome , control , center , cache , dump , meson , obs , screencast video recorder , perfomance run programm qt example obs , gimp , libreoffice ...
 
 $ tar xvpf gnome-control-center-3.36.4.tar.xz -C /tmp && cd /tmp/gnome-control-center-3.36.4/build
 
