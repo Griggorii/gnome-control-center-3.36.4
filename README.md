@@ -13,7 +13,7 @@ Ubuntu 20.04
 
 $ meson --reconfigure
 
-$ ninja install
+$ sudo ninja install
 
 Purge
 
